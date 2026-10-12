@@ -113,7 +113,7 @@ wangming123
 4. 一般保持默认选项即可；
 5. 安装组件时保留 **Git Bash Here**；
 6. 凭据管理选项保留 **Git Credential Manager**；
-7. 完成安装。
+7. 完成安装。[Git for Windows 视频教程](https://www.bilibili.com/video/BV1LUKk6wEWr)
 
 如果安装程序要求选择默认编辑器，不熟悉 Vim 的同学可以选择 **Notepad**、**Notepad++** 或已经安装的 **Visual Studio Code**。
 
@@ -240,7 +240,7 @@ git clone https://github.com/你的GitHub用户名/cad-homework-2026.git
 cd cad-homework-2026
 ```
 
-第一次连接 GitHub 时，浏览器或 Git Credential Manager 可能要求登录授权。请使用自己的 GitHub 账号完成登录，不要输入其他同学的账号。
+第一次连接 GitHub 时，浏览器或 Git Credential Manager 可能要求登录授权。请使用自己的 GitHub 账号完成登录，不要输入其他同学的账号。[GitHub Fork 操作说明视频](https://www.bilibili.com/video/BV1bd4y1J7Vt)
 
 Clone 完成后，可以用下面的命令确认当前位置和仓库内容：
 
